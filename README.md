@@ -1,0 +1,2 @@
+# EqAmerican
+An American option give an investor the right but not the obligation to buy a call or sell a put at a set strike price at any time prior to the contract’s expiry date. American options provide investors a way to hedge risk or speculate.  In general, American options do not have a closed-form solution. This presentation provides a practical guide for pricing an American equity option. 
