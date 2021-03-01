@@ -76,5 +76,5 @@ The Crank-Nicolson finite difference model replaces the space and time derivativ
 
 
 You can find more details at
-https://finpricing.com/lib/FxVolIntroduction.html
+https://finpricing.com/lib/EqWarrant.html
 . 
