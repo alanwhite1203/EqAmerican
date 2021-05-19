@@ -75,6 +75,10 @@ On this grid, the point (i,j) corresponds to time i∆t and stock price j∆Z. L
 The Crank-Nicolson finite difference model replaces the space and time derivatives with finite differences centered at an imaginary time step at (i+1/2). Therefore, we obtain the following formula:
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/EqWarrant.html
+
+https://bitbucket.org/cmrm11/eqamerican/downloads/EqAmerican-1.pdf
+
 . 
